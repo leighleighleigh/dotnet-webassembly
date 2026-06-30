@@ -20,7 +20,7 @@
     <DelaySign>false</DelaySign>
     <AssemblyOriginatorKeyFile>Properties\WebAssembly.snk</AssemblyOriginatorKeyFile>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
-    <NoWarn>CA1716;CA1720;IDE0005;IDE0060</NoWarn>
+    <NoWarn>CA1716;CA1720;IDE0005;IDE0055;IDE0060</NoWarn>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
